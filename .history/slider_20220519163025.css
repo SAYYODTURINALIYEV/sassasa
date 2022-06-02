@@ -1,0 +1,36 @@
+img {
+    margin: auto;
+    display: block;
+    width: 50%;
+}
+
+.rasmlar {
+    max-width: 612px;
+    position: relative;
+    margin: auto;
+}
+
+.slider-btn {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 8px 16px;
+    margin-top: -22px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    box-shadow: 12px 12px 16px red;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    border-radius: 50%;
+    ba
+}
+
+.previous {
+    left: 2%;
+}
+
+.next {
+    right: 2%;
+}
